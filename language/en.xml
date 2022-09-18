@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="en" languagename="English" countrycode="gb">
-	<category name="wcf.uztracker">
-		<item name="wcf.uztracker.config.wlcalEvent"><![CDATA[Calendar event]]></item>
-		<item name="wcf.uztracker.header.type.wlcal"><![CDATA[Calendar]]></item>
-		<item name="wcf.uztracker.type.wlcal"><![CDATA[Calendar]]></item>
-		
-		<item name="wcf.uztracker.description.calendar.add"><![CDATA[Event created]]></item>
-		<item name="wcf.uztracker.description.calendar.addDisabled"><![CDATA[Event created (disabled)]]></item>
-		<item name="wcf.uztracker.description.calendar.cancelled"><![CDATA[Event cancelled]]></item>
-		<item name="wcf.uztracker.description.calendar.delete"><![CDATA[Event permanently deleted]]></item>
-		<item name="wcf.uztracker.description.calendar.disable"><![CDATA[Event disabled]]></item>
-		<item name="wcf.uztracker.description.calendar.enable"><![CDATA[Event enabled]]></item>
-		<item name="wcf.uztracker.description.calendar.invited"><![CDATA[Sent invitation to event]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.maybe"><![CDATA[Maybe participates in event]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.no"><![CDATA[Does not participates in event]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.yes"><![CDATA[Participates in event]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.other.maybe"><![CDATA[Event participation for other user left open]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.other.no"><![CDATA[Event non-participation for other user defined]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.other.yes"><![CDATA[Event participation for other user defined]]></item>
-		<item name="wcf.uztracker.description.calendar.restore"><![CDATA[Event restored]]></item>
-		<item name="wcf.uztracker.description.calendar.setAsFeatured"><![CDATA[Event set featured]]></item>
-		<item name="wcf.uztracker.description.calendar.trash"><![CDATA[Event deleted (trash bin)]]></item>
-		<item name="wcf.uztracker.description.calendar.unsetAsFeatured"><![CDATA[Event unset featured]]></item>
-		<item name="wcf.uztracker.description.calendar.update"><![CDATA[Event edited]]></item>
-		
-		<item name="wcf.uztracker.page.calendarFeed"><![CDATA[RSS Calendar]]></item>
-		<item name="wcf.uztracker.page.event"><![CDATA[Event]]></item>
-	</category>
+    <category name="wcf.uztracker">
+        <item name="wcf.uztracker.config.wlcalEvent"><![CDATA[Calendar event]]></item>
+        <item name="wcf.uztracker.header.type.wlcal"><![CDATA[Calendar]]></item>
+        <item name="wcf.uztracker.type.wlcal"><![CDATA[Calendar]]></item>
+
+        <item name="wcf.uztracker.description.calendar.add"><![CDATA[Event created]]></item>
+        <item name="wcf.uztracker.description.calendar.addDisabled"><![CDATA[Event created (disabled)]]></item>
+        <item name="wcf.uztracker.description.calendar.cancelled"><![CDATA[Event cancelled]]></item>
+        <item name="wcf.uztracker.description.calendar.delete"><![CDATA[Event permanently deleted]]></item>
+        <item name="wcf.uztracker.description.calendar.disable"><![CDATA[Event disabled]]></item>
+        <item name="wcf.uztracker.description.calendar.enable"><![CDATA[Event enabled]]></item>
+        <item name="wcf.uztracker.description.calendar.invited"><![CDATA[Sent invitation to event]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.maybe"><![CDATA[Maybe participates in event]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.no"><![CDATA[Does not participates in event]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.yes"><![CDATA[Participates in event]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.other.maybe"><![CDATA[Event participation for other user left open]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.other.no"><![CDATA[Event non-participation for other user defined]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.other.yes"><![CDATA[Event participation for other user defined]]></item>
+        <item name="wcf.uztracker.description.calendar.restore"><![CDATA[Event restored]]></item>
+        <item name="wcf.uztracker.description.calendar.setAsFeatured"><![CDATA[Event set featured]]></item>
+        <item name="wcf.uztracker.description.calendar.trash"><![CDATA[Event deleted (trash bin)]]></item>
+        <item name="wcf.uztracker.description.calendar.unsetAsFeatured"><![CDATA[Event unset featured]]></item>
+        <item name="wcf.uztracker.description.calendar.update"><![CDATA[Event edited]]></item>
+
+        <item name="wcf.uztracker.page.calendarFeed"><![CDATA[RSS Calendar]]></item>
+        <item name="wcf.uztracker.page.event"><![CDATA[Event]]></item>
+    </category>
 </language>

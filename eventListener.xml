@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/eventListener.xsd">
-	<import>
-		<eventlistener name="trackerCalendar">
-			<eventclassname>calendar\data\event\EventAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>calendar\system\event\listener\TrackerCalendarListener</listenerclassname>
-		</eventlistener>
-		<eventlistener name="trackerCalendarDate">
-			<eventclassname>calendar\data\event\date\EventDateAction</eventclassname>
-			<eventname>finalizeAction</eventname>
-			<environment>user</environment>
-			<listenerclassname>calendar\system\event\listener\TrackerCalendarDateListener</listenerclassname>
-		</eventlistener>
-	</import>
+    <import>
+        <eventlistener name="trackerCalendar">
+            <eventclassname>calendar\data\event\EventAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>calendar\system\event\listener\TrackerCalendarListener</listenerclassname>
+        </eventlistener>
+        <eventlistener name="trackerCalendarDate">
+            <eventclassname>calendar\data\event\date\EventDateAction</eventclassname>
+            <eventname>finalizeAction</eventname>
+            <environment>user</environment>
+            <listenerclassname>calendar\system\event\listener\TrackerCalendarDateListener</listenerclassname>
+        </eventlistener>
+    </import>
 </data>
