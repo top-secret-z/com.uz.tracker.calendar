@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="de">
-	<category name="wcf.uztracker">
-		<item name="wcf.uztracker.config.wlcalEvent"><![CDATA[Termin]]></item>
-		<item name="wcf.uztracker.header.type.wlcal"><![CDATA[Kalender]]></item>
-		<item name="wcf.uztracker.type.wlcal"><![CDATA[Kalender]]></item>
-		
-		<item name="wcf.uztracker.description.calendar.add"><![CDATA[Termin erstellt]]></item>
-		<item name="wcf.uztracker.description.calendar.addDisabled"><![CDATA[Termin erstellt (deaktiviert)]]></item>
-		<item name="wcf.uztracker.description.calendar.cancelled"><![CDATA[Termin abgesagt]]></item>
-		<item name="wcf.uztracker.description.calendar.delete"><![CDATA[Termin endgültig gelöscht]]></item>
-		<item name="wcf.uztracker.description.calendar.disable"><![CDATA[Termin deaktiviert]]></item>
-		<item name="wcf.uztracker.description.calendar.enable"><![CDATA[Termin aktiviert]]></item>
-		<item name="wcf.uztracker.description.calendar.invited"><![CDATA[Einladung zu Termin verschickt]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.maybe"><![CDATA[Nimmt vielleicht an Termin teil]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.no"><![CDATA[Nimmt nicht an Termin teil]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.yes"><![CDATA[Nimmt an Termin teil]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.other.maybe"><![CDATA[Teilnahme an Termin für anderen Benutzer offen gestellt]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.other.no"><![CDATA[Nichtteilnahme an Termin für anderen Benutzer festgelegt]]></item>
-		<item name="wcf.uztracker.description.calendar.invited.other.yes"><![CDATA[Teilnahme an Termin für anderen Benutzer festgelegt]]></item>
-		<item name="wcf.uztracker.description.calendar.restore"><![CDATA[Termin wiederhergestellt]]></item>
-		<item name="wcf.uztracker.description.calendar.setAsFeatured"><![CDATA[Termin empfohlen]]></item>
-		<item name="wcf.uztracker.description.calendar.trash"><![CDATA[Termin gelöscht (Papierkorb)]]></item>
-		<item name="wcf.uztracker.description.calendar.unsetAsFeatured"><![CDATA[Termin nicht mehr empfohlen]]></item>
-		<item name="wcf.uztracker.description.calendar.update"><![CDATA[Termin bearbeitet]]></item>
-		
-		<item name="wcf.uztracker.page.calendarFeed"><![CDATA[RSS Kalender]]></item>
-		<item name="wcf.uztracker.page.event"><![CDATA[Termin]]></item>
-	</category>
+    <category name="wcf.uztracker">
+        <item name="wcf.uztracker.config.wlcalEvent"><![CDATA[Termin]]></item>
+        <item name="wcf.uztracker.header.type.wlcal"><![CDATA[Kalender]]></item>
+        <item name="wcf.uztracker.type.wlcal"><![CDATA[Kalender]]></item>
+
+        <item name="wcf.uztracker.description.calendar.add"><![CDATA[Termin erstellt]]></item>
+        <item name="wcf.uztracker.description.calendar.addDisabled"><![CDATA[Termin erstellt (deaktiviert)]]></item>
+        <item name="wcf.uztracker.description.calendar.cancelled"><![CDATA[Termin abgesagt]]></item>
+        <item name="wcf.uztracker.description.calendar.delete"><![CDATA[Termin endgültig gelöscht]]></item>
+        <item name="wcf.uztracker.description.calendar.disable"><![CDATA[Termin deaktiviert]]></item>
+        <item name="wcf.uztracker.description.calendar.enable"><![CDATA[Termin aktiviert]]></item>
+        <item name="wcf.uztracker.description.calendar.invited"><![CDATA[Einladung zu Termin verschickt]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.maybe"><![CDATA[Nimmt vielleicht an Termin teil]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.no"><![CDATA[Nimmt nicht an Termin teil]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.yes"><![CDATA[Nimmt an Termin teil]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.other.maybe"><![CDATA[Teilnahme an Termin für anderen Benutzer offen gestellt]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.other.no"><![CDATA[Nichtteilnahme an Termin für anderen Benutzer festgelegt]]></item>
+        <item name="wcf.uztracker.description.calendar.invited.other.yes"><![CDATA[Teilnahme an Termin für anderen Benutzer festgelegt]]></item>
+        <item name="wcf.uztracker.description.calendar.restore"><![CDATA[Termin wiederhergestellt]]></item>
+        <item name="wcf.uztracker.description.calendar.setAsFeatured"><![CDATA[Termin empfohlen]]></item>
+        <item name="wcf.uztracker.description.calendar.trash"><![CDATA[Termin gelöscht (Papierkorb)]]></item>
+        <item name="wcf.uztracker.description.calendar.unsetAsFeatured"><![CDATA[Termin nicht mehr empfohlen]]></item>
+        <item name="wcf.uztracker.description.calendar.update"><![CDATA[Termin bearbeitet]]></item>
+
+        <item name="wcf.uztracker.page.calendarFeed"><![CDATA[RSS Kalender]]></item>
+        <item name="wcf.uztracker.page.event"><![CDATA[Termin]]></item>
+    </category>
 </language>
